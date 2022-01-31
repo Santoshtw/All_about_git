@@ -6,3 +6,7 @@ colors
 Dark mod theme
 video 
 Audio
+
+Payment option
+payment recieve
+Payment send
